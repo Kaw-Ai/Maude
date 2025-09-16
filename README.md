@@ -26,11 +26,22 @@ Instructions on how to build Maude from source can be found in the [INSTALL](INS
 
 ## Documentation
 
+### User Documentation
 The Maude manual for Maude 3.5 is available in [PDF format](https://maude.cs.illinois.edu/manual.pdf)
 and in [HTML](https://maude.lcc.uma.es/maude-manual/).
 The source code for most of the examples used in the manual, together with the examples from the Maude book,
 are available [here](https://maude.cs.illinois.edu/manual-book-examples.zip).
 
+### Technical Documentation
+Comprehensive technical architecture documentation is available in the [doc/](doc/) directory:
+
+- **[Technical Architecture](doc/TECHNICAL_ARCHITECTURE.md)** - System architecture with Mermaid diagrams
+- **[API & Interfaces](doc/API_INTERFACES.md)** - Programming interfaces and extension points  
+- **[Deployment Guide](doc/DEPLOYMENT_ARCHITECTURE.md)** - Installation, configuration, and deployment
+- **[Development Workflow](doc/DEVELOPMENT_WORKFLOW.md)** - Development practices and contribution guide
+- **[Documentation Index](doc/README.md)** - Complete documentation overview
+
+### Additional Resources
 Additional information on background, applications, and previous versions is available at its [official web site](https://maude.cs.illinois.edu).
 
 For help using Maude 3:	maude-help@maude.cs.uiuc.edu

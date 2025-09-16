@@ -31,4 +31,8 @@ EXTRA_DIST = \
 	alpha160.txt \
 	alpha161.txt \
 	alpha162.txt \
-	alpha163.txt
+	alpha163.txt \
+	TECHNICAL_ARCHITECTURE.md \
+	API_INTERFACES.md \
+	DEPLOYMENT_ARCHITECTURE.md \
+	DEVELOPMENT_WORKFLOW.md
